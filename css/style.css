@@ -110,3 +110,17 @@ button:hover span {
 button:hover {
     border: none;
 }
+
+
+
+/* Make Responsive */
+
+/* @media only screen and (max-width: 480px) {
+    .navbar {
+        position: static;
+    }
+
+    .navbar ul li {
+        display: none;
+    }
+} */
